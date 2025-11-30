@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.bg{
+    background-color: aqua;
+}
+i{
+    cursor: pointer;
+}
+i:hover{
+    scale: 1.12;
+    transition: all 1s ease;
+}
